@@ -1,0 +1,4 @@
+set number relativenumber
+set idearefactormode=keep
+set ideajoin
+

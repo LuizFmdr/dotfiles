@@ -34,3 +34,10 @@ yabai -m rule --add app="^Notes$" manage=off
 #yabai -m rule --add app="^TextEdit$" manage=off
 #yabai -m rule --add app="^Xcode$" manage=off
 #yabai -m rule --add app="^Xcode$" title="( - )" manager=on
+
+# make JetBrains products popup windows float
+apps='^(IntelliJ IDEA|WebStorm|Android Studio|PyCharm)$'
+yabai -m rule --add app="JetBrains Toolbox" manage=off
+yabai -m rule --add app="${apps}" manage=off
+yabai -m rule --add app="${apps}" title="( – )" manage=on
+
