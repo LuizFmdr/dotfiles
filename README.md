@@ -9,14 +9,12 @@ Ensure you have the following installed on your system
 ### Git 
 ```
 brew install git
-
 ```
 
 ### Stow
 
 ```
 brew install stow
-
 ```
 
 ## Installation
@@ -26,14 +24,12 @@ First, check out the  dotfiles repo in your $HOME directory using git
 ```
 $git clone git@github.com/LuizFmdr/dotfiles.git
 $ cd dotfiles
-
 ```
 
 then use stow to create symlinks
 
 ```
 $ stow .
-
 ```
 
 # Other Mac settings
