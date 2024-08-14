@@ -40,24 +40,24 @@ $ stow .
 
 ## Finder
 
-###Settings -> General 
+### Settings -> General 
 
 - [x] Hard disks
 
 New Finder windows show: User folder
 
-###Settings -> SiderBar
+### Settings -> SiderBar
 
 - [x] Home folder
 - [ ] Tags
 
-###Settings -> Advanced
+### Settings -> Advanced
 
 - [x] Show all filename extensions
 
 When performing a search: search the current folder
 
-###View
+### View
 - [x] Show Path Bar
 - [x] Show Status Bar
 
