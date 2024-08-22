@@ -2,3 +2,20 @@ set number relativenumber
 set idearefactormode=keep
 set ideajoin
 
+noremap h m
+noremap m h
+noremap e k
+noremap k e
+noremap n j
+noremap j n
+noremap i l
+noremap l i
+
+noremap H M
+noremap M H
+noremap E K
+noremap K E
+noremap N J
+noremap J N
+noremap I L
+noremap L I
