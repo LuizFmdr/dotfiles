@@ -57,6 +57,11 @@ When performing a search: search the current folder
 - [x] Show Path Bar
 - [x] Show Status Bar
 
+Show Hidden files: 
+```
+defaults write com.apple.Finder AppleShowAllFiles true
+```
+
 ## Dock
 
 Minimize windows using 'Scale effect'
